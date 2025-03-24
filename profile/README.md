@@ -53,7 +53,7 @@ We believe in open collaboration, community-driven development, and making the w
 ---
 
 <div align="center">
-  <img src="YOUR_CARD_IMAGE_URL_HERE" alt="EonFluxTech Showcase" width="80%" style="border-radius: 24px;">
+  <img src="[YOUR_CARD_IMAGE_URL_HERE](https://raw.githubusercontent.com/Dyplay/EonfluxTech/refs/heads/master/public/Creating%20universal%20and%20simple%20software%20that%20empowers%20developers%20and%20users%20alike.%20(1).png)" alt="EonFluxTech Showcase" width="80%" style="border-radius: 24px;">
 </div>
 
 > _"Stay curious. Stay building."_ ✨
