@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://cloud.appwrite.io/v1/storage/buckets/67d484c20015a1cb1f06/files/67e150480015191ae072/view?project=67d3f589000488385c35" alt="EonFluxTech Logo" width="64" height="64">
+  <img src="https://cloud.appwrite.io/v1/storage/buckets/67d484c20015a1cb1f06/files/67e1505b0028a41e799b/view?project=67d3f589000488385c35" alt="EonFluxTech Logo" width="128" height="64">
 </p>
 
 # 🌐 EonFluxTech
@@ -53,7 +53,7 @@ We believe in open collaboration, community-driven development, and making the w
 ---
 
 <div align="center">
-  <img src="[YOUR_CARD_IMAGE_URL_HERE](https://raw.githubusercontent.com/Dyplay/EonfluxTech/refs/heads/master/public/Creating%20universal%20and%20simple%20software%20that%20empowers%20developers%20and%20users%20alike.%20(1).png)" alt="EonFluxTech Showcase" width="80%" style="border-radius: 24px;">
+  <img src="https://cloud.appwrite.io/v1/storage/buckets/67d484c20015a1cb1f06/files/67e150480015191ae072/view?project=67d3f589000488385c35" alt="EonFluxTech Showcase" width="80%" style="border-radius: 24px;">
 </div>
 
 > _"Stay curious. Stay building."_ ✨
