@@ -34,12 +34,12 @@ Welcome to **EonFluxTech**, where ideas turn into powerful digital solutions. We
 
 ## 🤝 Join the Flux
 
-We believe in open collaboration, community-driven development, and making the web a better place. If you're into innovation, experimentation, and clean code — you're in the right place.
+We believe in open collaboration, community-driven development, and making the web a better place. If you're into innovation, experimentation, and clean code you're in the right place.
 
 ### 🧑‍💻 Want to contribute?
 - Fork, star ⭐, and pull request like a pro
 - Create issues, request features, or drop feedback
-- Let's build something awesome — together!
+- Let's build something awesome together!
 
 ---
 
