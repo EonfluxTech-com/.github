@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://cloud.appwrite.io/v1/storage/buckets/67d484c20015a1cb1f06/files/67e1505b0028a41e799b/view?project=67d3f589000488385c35" alt="EonFluxTech Logo" width="128" height="64">
+  <img src="https://cloud.appwrite.io/v1/storage/buckets/67d484c20015a1cb1f06/files/67e1505b0028a41e799b/view?project=67d3f589000488385c35" alt="EonFluxTech Logo" width="200" height="64">
 </p>
 
 # 🌐 EonFluxTech
